@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "ebe0a5d4-95bc-4d95-b16a-aeca8ccc9852",
+    "name": "Appetizers— አፕታይት መክፈቻ",
+    "items": [
+      {
+        "id": "c09c3310-58be-4b0c-b747-bef5b1dd4147",
+        "name": "Sambusa",
+        "description": "Crispy pastry filled with lentils, ground beef, or vegetables.",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/11ef5aea55d7de542b35.png",
+        "sourceLabels": [
+          "Vegetarian",
+          "Dairy free",
+          "Lactose free",
+          "Sugar free",
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "936091b2-a826-4283-b14f-f50cab13fb57",
+        "name": "Kategna — ቃተኛ",
+        "description": "Toasted injera spread with Ethiopian spiced butter and berbere",
+        "price": 8.5,
+        "variants": [],
+        "image": "/images/a383e4cca05bc0945cba.png",
+        "sourceLabels": [
+          "Gluten free",
+          "Sugar free",
+          "Mild",
+          "Organic"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "5620ec6c-30b6-40e7-a72e-91717af632b7",
+        "name": "Salad",
+        "description": "Fresh vegetable salad with Ethiopian dressing.",
+        "price": 9.99,
+        "variants": [],
+        "image": "/images/2d55a4d890331f71a874.png",
+        "sourceLabels": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "672ebcee-a154-4460-b646-46885c15f4f0",
+        "name": "Ayib Bemitmita — አይብ በሚጥሚጣ",
+        "description": "Homemade cottage cheese mixed with Ethiopian butter and mitmita",
+        "price": 10.99,
+        "variants": [],
+        "image": "/images/7cd83a2787ea501f5ae1.png",
+        "sourceLabels": [
+          "Extra hot",
+          "Mild",
+          "Organic"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "806c487b-49ac-415c-b1f1-ce7c6efd3db4",
+        "name": "Flax Seed Fit-fit — የተልባ ፍትፍት",
+        "description": "Torn injera tossed with ground flaxseed, fresh tomatoes, red onions, green peppers, olive oil, and lemon juice.",
+        "price": 11.99,
+        "variants": [],
+        "image": "/images/0a4f420a687e6492b93e.png",
+        "sourceLabels": [
+          "Lactose free",
+          "Organic",
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3bee8004-4c37-4f5e-a0cb-3bf6b40236d2",
+    "name": "Breakfast- ቁርስ",
+    "items": [
+      {
+        "id": "e4abee39-0154-4dec-8f91-bcb01da1aa1e",
+        "name": "Breakfast combo",
+        "description": "Four selection from breakfast menu (Firfir, Scrabmled Egg, Kinche and Chechebsa)",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/dc52f2131605c0042271.png",
+        "sourceLabels": [
+          "Eggs",
+          "Sugar free",
+          "Wheat",
+          "Mild"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "4e511589-51ab-4dc6-92d2-c1bc041aa240",
+        "name": "Sega Firfir",
+        "description": "Ethiopian and Eritrean dish made with torn or shredded Injera mixed into a spicy, savory meat and berbere sauce.",
+        "price": 20.99,
+        "variants": [],
+        "image": "/images/b4ad8f34fc160b30203d.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "c6a64225-b99f-4d6c-8129-eaad6583ab31",
+        "name": "Firfir — ፍርፍር",
+        "description": "Torn injera tossed in a seasoned berbere sauce. Available with or without traditional Ethiopian spiced butter.",
+        "price": 19.99,
+        "variants": [],
+        "image": "/images/38d71de508e2abb90ebb.png",
+        "sourceLabels": [
+          "Gluten free",
+          "Mild",
+          "Sugar free"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "915bb099-6b64-4d55-bcdb-8e52467c6670",
+        "name": "Chechebsa — ጨጨብሳ",
+        "description": "Torn pieces of homemade flatbread tossed with Ethiopian spiced butter and berbere.",
+        "price": 17.99,
+        "variants": [],
+        "image": "/images/454b1cbffa8d0d5b6503.png",
+        "sourceLabels": [
+          "Wheat",
+          "Mild"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "415e2385-30e3-42a0-bc47-34ffe86f3864",
+        "name": "Scrambled Eggs — እንቁላል ፍርፍር",
+        "description": "Four eggs scrambled with onions, tomatoes, jalapeños, and Ethiopian spices. Served with bread.",
+        "price": 14.99,
+        "variants": [],
+        "image": "/images/cdc978090b9a728e9a2d.png",
+        "sourceLabels": [
+          "Eggs",
+          "Organic",
+          "Sugar free"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "a5a7ba5d-9df9-4711-b6a2-e6074f591d3b",
+        "name": "Kinche — ቂንጬ",
+        "description": "A comforting Ethiopian breakfast porridge made from cracked wheat or barley, finished with traditional spiced butter.",
+        "price": 14.99,
+        "variants": [],
+        "image": "/images/a7d0f21d3a9654ecb3d7.png",
+        "sourceLabels": [
+          "Wheat",
+          "Sugar free"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "092f7b8f-8c5d-4497-b84a-a153939c8a8b",
+        "name": "Ful Special ፋል እስፔሻል",
+        "description": "Crushed fare beans with cooked onion, jalapeno pepper, Fresh tomato, olive oil and blend of Ethiopian spices served one boiled eggs and bread.",
+        "price": 16.99,
+        "variants": [],
+        "image": "/images/521488d2301ca7a60602.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "64b90254-b7ec-44cd-9801-799ee7060586",
+        "name": "Flaxseed Fitfit — ተልባ ፍትፍት",
+        "description": "Torn injera tossed in a seasoned ground flaxseed dressing.",
+        "price": 11.99,
+        "variants": [],
+        "image": "/images/1432840157ade09f5157.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "4955e044-061d-447e-9bdb-7f96b6f2c637",
+        "name": "Bula be kitfo (ቡላ በክትፎ)",
+        "description": "Ethiopian comfort dish that combines bula—a thick, smooth, and stretchy porridge-like food made from the starch of the enset (false banana) plant—with kitfo—finely minced beef seasoned with mitmita (spiced chili powder) and niter kibbeh (spiced clarified butter).",
+        "price": 34.95,
+        "variants": [],
+        "image": "/images/52a478ee938df58f2c8c.png",
+        "sourceLabels": [
+          "Gluten free",
+          "Mild"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "39d3f148-c176-44e1-8c7f-ad976b91d3e0",
+        "name": "Kitfo Dulet — ክትፎ ዱለት",
+        "description": "Finely minced beef seasoned with Ethiopian spiced butter, mitmita, onions, and green chilies. Served cooked or medium with injera",
+        "price": 24.99,
+        "variants": [],
+        "image": "/images/ce461e8f2c33d106a279.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "e9cc958c-d785-47d8-9f0d-5e3841e0056c",
+        "name": "Waffle",
+        "description": "",
+        "price": 14.99,
+        "variants": [],
+        "image": "/images/9ad7a5b6f785c37fb65f.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "7b34be43-4638-4770-ba81-833394f643d8",
+        "name": "Enkulal Besiga — እንቁላል በስጋ",
+        "description": "Scrambled eggs with beef, onions, tomatoes, and green peppers, served with injera.",
+        "price": 19.99,
+        "variants": [],
+        "image": "/images/0a7892f7fc5af37f1109.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "ed2f7495-03b8-43a3-aee0-e3d1766b206e",
+        "name": "Ful ፉል",
+        "description": "Seasoned mashed fava beans with onions, tomatoes, and green chilies  served with bread.",
+        "price": 15.99,
+        "variants": [],
+        "image": "/images/e4d2d0bc53243cf8fe74.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "cbbe9fb7-0eef-4a54-986f-d2a48fb2ed7c",
+        "name": "Genfo — ገንፎ",
+        "description": "Thick Ethiopian porridge served with spiced butter and berbere.",
+        "price": null,
+        "variants": [
+          {
+            "name": "Medium",
+            "price": 14.99
+          },
+          {
+            "name": "Large",
+            "price": 20.99
+          }
+        ],
+        "image": "/images/ffa036a61851796abbc9.png",
+        "sourceLabels": [
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "259d0be7-95be-4e83-9457-678808506ba4",
+    "name": "Vegetarian/Vegan Options የአትክልት ምግብ ምርጫዎች",
+    "items": [
+      {
+        "id": "2d742dab-c4a6-459e-8714-019403c1c60f",
+        "name": "Shiro Wot — ሽሮ ወጥ",
+        "description": "A smooth chickpea stew simmered with garlic, berbere, and Ethiopian spices. Served with injera.",
+        "price": 17.99,
+        "variants": [],
+        "image": "/images/5ddbc8c0ff69e29043d5.png",
+        "sourceLabels": [
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "8f0afdb6-3e1a-437f-9c22-2c82258d2318",
+        "name": "Gomen — ጎመን",
+        "description": "Tender collard greens sautéed with onions, garlic, and Ethiopian spices. Served with injera.",
+        "price": 18.99,
+        "variants": [],
+        "image": "/images/9c9ecae5bb6648dff62e.jpeg",
+        "sourceLabels": [
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "ec875ed9-3ea4-4ee1-b9a6-f1919b0ae50d",
+        "name": "Misir Wot — ምስር ወጥ",
+        "description": "Red lentils simmered with onions, garlic, berbere, and Ethiopian spices. Served with injera.",
+        "price": 18.99,
+        "variants": [],
+        "image": "/images/2bda5fcdea1a9578b4a0.png",
+        "sourceLabels": [
+          "Organic",
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "c55266ea-1ca4-4da6-a55f-f08491f9f026",
+        "name": "Whole Fried Fish with Salad — ሙሉ ዓሣ ጥብስ ከሰላጣ ጋር",
+        "description": "",
+        "price": 18.99,
+        "variants": [],
+        "image": "/images/7c9b5438113dc6cd199b.jpeg",
+        "sourceLabels": [
+          "Fish"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "090bfe58-7da1-4c40-91fe-ab9837645d00",
+        "name": "Vegetarian Combo — በየአይነቱ",
+        "description": "A colorful selection of lentil stews, shiro, collard greens, seasonal vegetables, and fresh salad, served on injera.",
+        "price": 24.99,
+        "variants": [],
+        "image": "/images/66dfc3e2bd079c85045f.png",
+        "sourceLabels": [
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "5e6b8b65-d68c-451e-94f0-c2fb34a5404d",
+        "name": "Copy of Genfo — ገንፎ",
+        "description": "Thick Ethiopian porridge served with spiced butter and berbere.",
+        "price": null,
+        "variants": [
+          {
+            "name": "Medium",
+            "price": 14.99
+          },
+          {
+            "name": "Large",
+            "price": 20.99
+          }
+        ],
+        "image": "/images/ffa036a61851796abbc9.png",
+        "sourceLabels": [
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Possible duplicate",
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "0c512d06-81df-4d28-91cc-d7f9499603cb",
+        "name": "Alicha Kik — አልጫ ክክ — $14.99",
+        "description": "Yellow split peas simmered with onions, garlic, and turmeric.",
+        "price": 14.99,
+        "variants": [],
+        "image": "/images/8f81c0eb8e3234be91c8.png",
+        "sourceLabels": [
+          "Vegetarian",
+          "Vegan",
+          "Sugar free",
+          "Lactose free"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "16ba8be9-16c1-44d1-9065-c726045986ac",
+        "name": "Pasta Firfir — ፓስታ ፍርፍር",
+        "description": "Pasta tossed with torn injera in a seasoned berbere sauce.",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/96427647f45817cf7631.png",
+        "sourceLabels": [
+          "Vegetarian"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e560c2a0-a0dd-4d7b-881d-67bacff5f081",
+    "name": "Meat Options የበሬ ስጋ ምርጫ",
+    "items": [
+      {
+        "id": "eccb695a-1a3a-4215-b61a-8cbc2e2dab3f",
+        "name": "Kurt — ቁርጥ ስጋ",
+        "description": "Selected cuts of raw beef, served with awaze and mitmita on the side.",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/ac156fc98fd0d045532f.jpeg",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "44e91fd3-3cbe-4412-866a-cddc89bed5b0",
+        "name": "Conspagna Special",
+        "description": "Seasoned kitfo, sautéed beef tibs, collard greens, and Ethiopian cottage cheese. Served with injera. Serves two.",
+        "price": 41.99,
+        "variants": [],
+        "image": "/images/603086fbd03e06331551.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "0780b830-2c20-4584-959d-036f574f19af",
+        "name": "Derek Tibs — ደረቅ ጥብስ",
+        "description": "Bite-sized cuts of prime beef cooked in their own fat with rosemary, onions, and Ethiopian spices.",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/ca769259184910d5770b.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "bbafcf9d-7b6d-48d0-b19d-6d8751f0ee2d",
+        "name": "Beef Lega Tibs — የበሬ ለጋ ጥብስ",
+        "description": "Tender beef sautéed with onions, tomatoes, green peppers, rosemary, Ethiopian spices, and traditional spiced butter. Available spicy or mild.",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/79cb6ba87ab865bc6252.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "6fee432f-3ec6-4e40-b608-9fc566495f64",
+        "name": "Goden Tibs — ጎድን ጥብስ",
+        "description": "beef short ribes sauteed with onion, garlic. jalapenos and special house spices.",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/d0147522a6dc8073253a.png",
+        "sourceLabels": [
+          "Sugar free",
+          "Gluten free"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "e5697288-9ade-41a4-8dfc-d7efc0d4d823",
+        "name": "Kitfo — ክትፎ",
+        "description": "Finely minced beef seasoned with traditional Ethiopian spiced butter, corerima and mitmita. Served with Ethiopian cottage cheese, collard greens, and injera. served raw, lightly cooked, or fully cooked.",
+        "price": 24.99,
+        "variants": [],
+        "image": "/images/9748bc690b2023244ed7.jpeg",
+        "sourceLabels": [
+          "Mild"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "c871a66a-e24b-454c-bedb-756dd18b2512",
+        "name": "Afghan አፋኝ",
+        "description": "Finely chopped beef sautéed with onions, green chilies, and Ethiopian spices. Served with injera.",
+        "price": 24.99,
+        "variants": [],
+        "image": "/images/893f76755e049621eb7d.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "c453492d-09c8-4ee8-be83-5dd5bd88a77e",
+        "name": "Quanta Firfir — ቋንጣ ፍርፍር",
+        "description": "Torn injera tossed with dried beef in a rich berbere sauce, seasoned with Ethiopian spices.",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/0f04d431aad032a327c2.png",
+        "sourceLabels": [
+          "Gluten free",
+          "Sugar free",
+          "Mild"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "3f9cd09b-ad5f-4430-a31b-c2340d940f77",
+        "name": "Conspagna Juicy Zil-Zil Tibs — ኮንስፓኛ መረቅ ዝልዝል ጥብስ",
+        "description": "Tender beef strips sautéed with onions, peppers, and Ethiopian spices in a rich, juicy sauce. Served with injera.",
+        "price": 25.95,
+        "variants": [],
+        "image": "/images/71cd5c03b2cd26b4d0dc.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "872c142e-dc31-4588-86bc-92f565300dfa",
+        "name": "Copy of Kitfo Dulet — ክትፎ ዱለት",
+        "description": "Finely minced beef seasoned with Ethiopian spiced butter, mitmita, onions, and green chilies. Served cooked or medium with injera",
+        "price": 24.99,
+        "variants": [],
+        "image": "/images/ce461e8f2c33d106a279.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Possible duplicate"
+        ]
+      },
+      {
+        "id": "cbd9d234-5d22-450b-858d-a6c8103513f7",
+        "name": "Gomen Besiga — ጎመን በስጋ",
+        "description": "Tender beef cooked with collard greens, onions, garlic, and Ethiopian spices. Served with injera.",
+        "price": 25.95,
+        "variants": [],
+        "image": "/images/b289d57f8b84fb37581e.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "b8ecf046-a10d-46ea-8fe0-e2339c50b517",
+        "name": "Gored-Gored — ጎረድ ጎረድ",
+        "description": "Tender beef cubes tossed with Ethiopian spiced butter and mitmita. Traditionally served raw with injera.",
+        "price": 25.99,
+        "variants": [],
+        "image": "/images/bd77b6b3eb934568cde4.png",
+        "sourceLabels": [
+          "Sugar free",
+          "Organic"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "d85222ba-e91d-4b0a-9750-2635e095d59f",
+        "name": "Bozena Shiro — ቦዘና ሽሮ",
+        "description": "Smooth chickpea stew simmered with tender beef, onions, garlic, berbere, and Ethiopian spices. Served with injera.",
+        "price": 0,
+        "variants": [],
+        "image": "/images/de59b4da515049c5b981.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Confirm zero price"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b667bde1-251c-4d93-aa43-ca0c5e5af41d",
+    "name": "Lamb option የበግ ስጋ ምርጫዎች",
+    "items": [
+      {
+        "id": "96ce57ed-35cc-449f-9a17-78cd0387ca72",
+        "name": "Lamb Alcha — የበግ አልጫ",
+        "description": "Tender lamb simmered in a mild, fragrant broth with turmeric, onions, garlic, ginger, and Ethiopian spices. Served with injera.",
+        "price": 23.99,
+        "variants": [],
+        "image": "/images/cbbd3e9f809efbfa8da8.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "5bd711fa-f3c1-4112-a074-3a5b6fddac66",
+        "name": "Lamb Tibs — የበግ ጥብስ",
+        "description": "Tender lamb sautéed with onions, tomatoes, jalapeños, and rosemary. Available spicy or mild. Served with injera.",
+        "price": 24.99,
+        "variants": [],
+        "image": "/images/da3d8824e33994b8a653.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "a88c4064-8392-49a2-87ab-ef45418133a5",
+        "name": "Lamb Tibs Firfir — የበግ ጥብስ ፍርፍር",
+        "description": "Tender lamb sautéed with onions, tomatoes, jalapeños, and Ethiopian spices, tossed with torn injera.",
+        "price": 25.95,
+        "variants": [],
+        "image": "/images/9f842b4f10f7de5f8688.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "6dee45a4-2cbb-49ed-854c-d96b71c802a5",
+        "name": "Lamb Derek Tibs — የበግ ደረቅ ጥብስ",
+        "description": "Bite-sized lamb pieces sautéed until browned with onions, rosemary, and Ethiopian spices. Served with injera.",
+        "price": 26.99,
+        "variants": [],
+        "image": "/images/bdba4c89386a2a4fee48.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "ee6a8769-3cf9-490e-8ad8-f4fee70a1cc2",
+        "name": "Lamb Awaze Tibs — የበግ አዋዜ ጥብስ",
+        "description": "Tender lamb sautéed with onions, peppers, and Ethiopian spices in a rich, spicy awaze sauce. Served with injera.",
+        "price": 25.95,
+        "variants": [],
+        "image": "/images/545d1a440c6a51663353.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      }
+    ]
+  },
+  {
+    "id": "e361404f-57ef-4fed-819d-ec3d1c1cfc86",
+    "name": "Doro Wot — ዶሮ ወጥ ",
+    "items": [
+      {
+        "id": "7ea9f0bc-4342-422f-b1ee-ea9ec2895522",
+        "name": "Doro Wot — ዶሮ ወጥ",
+        "description": "Chicken simmered in a rich, spicy berbere sauce with slow-cooked onions and Ethiopian spiced butter. Served with a boiled egg and injera.",
+        "price": 24.95,
+        "variants": [],
+        "image": "/images/f8951a31c28aa790f5da.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      }
+    ]
+  },
+  {
+    "id": "a011f185-c974-439c-b958-a0ee664858b1",
+    "name": "Combination Platters፣ ከሁለት በላይ ምግቦች",
+    "items": [
+      {
+        "id": "b689157d-70d7-4fdc-b24c-a7d9ca4fa0ef",
+        "name": "Vegetarian Combo — በየአይነቱ",
+        "description": "A mix of misir wot, shiro wot, gomen, and atkilt wot, served with injera.",
+        "price": 24.99,
+        "variants": [],
+        "image": "/images/86f55a8b19d9baeec0f8.png",
+        "sourceLabels": [
+          "Vegetarian",
+          "Organic",
+          "Sugar free",
+          "Lactose free",
+          "Gluten free"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "ce61597f-0494-4676-a5c9-1ccef94da617",
+        "name": "Conspagna Meet Combo ካንስፓኛ ስጋ ኮንቦ (መሀበራዊ)",
+        "description": "Key wot, Tibes, Alicha wot and Salad and served with optional two portions of veggies and injera.",
+        "price": 44.95,
+        "variants": [],
+        "image": "/images/c04c7b0beadefc476c04.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "bed2d5ee-e12f-42cd-9e1f-fed9eeb4a307",
+        "name": "Kitfo Firfir — ክትፎ ፍርፍር",
+        "description": "A combination of quanta firfir—torn injera tossed with dried beef in berbere sauce—and seasoned kitfo.",
+        "price": 34.95,
+        "variants": [],
+        "image": "/images/22910faba9f720903787.png",
+        "sourceLabels": [
+          "Sugar free",
+          "Mild"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "fa0f2dcf-7d4c-40c1-bedc-6bdba09d0660",
+        "name": "Vegetarian + Meat Combo በየአይነት እና በስጋ",
+        "description": "A selection of vegetarian stews served with your choice of lamb, beef, or chicken, alongside injera.",
+        "price": 39.95,
+        "variants": [],
+        "image": "/images/6af2a2406ce480bdf4e1.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "f3f9b34b-cce8-41de-ade0-3345272b81cb",
+        "name": "Copy of Bula be kitfo (ቡላ በክትፎ)",
+        "description": "Ethiopian comfort dish that combines bula—a thick, smooth, and stretchy porridge-like food made from the starch of the enset (false banana) plant—with kitfo—finely minced beef seasoned with mitmita (spiced chili powder) and niter kibbeh (spiced clarified butter).",
+        "price": 34.95,
+        "variants": [],
+        "image": "/images/52a478ee938df58f2c8c.png",
+        "sourceLabels": [
+          "Gluten free",
+          "Mild"
+        ],
+        "modifiers": [],
+        "review": [
+          "Possible duplicate",
+          "Dietary labels require verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "98116ae1-31d3-4a86-a91f-bc909838e575",
+    "name": "Spaghetti opinions ",
+    "items": [
+      {
+        "id": "0950aca9-fe75-443b-baad-313e6dec11d4",
+        "name": "Spaghetti with meat sauce",
+        "description": "A classic, comforting Italian-American staple featuring tender pasta tossed in a rich, slow-simmered tomato sauce packed with seasoned ground meat. It is widely celebrated as one of the easiest, most affordable, and deeply satisfying weeknight dinners.",
+        "price": 16.99,
+        "variants": [],
+        "image": "/images/05cd73b763afc5e50eb4.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "da099dc8-f839-4235-aef7-8031b0b4991e",
+        "name": "-Spaghetti vegetable - ፓስታ በአትክልት",
+        "description": "a popular and comforting fusion dish in Ethiopian home cooking. Stemming from historical Italian influences in East Africa, this dish combines standard long pasta with traditional Ethiopian flavors and aromatics",
+        "price": 14.99,
+        "variants": [],
+        "image": "/images/56703af87a1a1f79e0ba.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      }
+    ]
+  },
+  {
+    "id": "bb193ca9-71ec-4fc9-8d56-4f9cbb8b1595",
+    "name": "Sea food የአሳ ጥብስ ምር  ምርጫ",
+    "items": [
+      {
+        "id": "c32e2e25-2e03-452d-a0dd-f786466254b4",
+        "name": "Fish & Chips — አሳ ኮተሌት ከ ድንች ጥብስ ጋር",
+        "description": "Crispy fried fish fillets served with golden French fries.",
+        "price": 19.99,
+        "variants": [],
+        "image": "/images/e4d2ff8667c8e26490e1.png",
+        "sourceLabels": [
+          "Fish"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "bb569369-5de8-4cf0-a32c-296204b268f6",
+        "name": "Whole Fried Fish with Rice & Salad — ሙሉ አሳ ጥብስ ከሩዝና ሰላጣ ጋር",
+        "description": "Whole fish fried until golden and crisp, served with rice and fresh mixed salad.",
+        "price": 23.95,
+        "variants": [],
+        "image": "/images/0daee3c87ed02f8451c0.png",
+        "sourceLabels": [
+          "Fish"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5935484a-daad-4b31-b935-276792dc43e9",
+    "name": "Side Dishes and extra ጭማሪ",
+    "items": [
+      {
+        "id": "7e3ad639-6b37-4fea-bc20-e41a1ad315c5",
+        "name": "Injera",
+        "description": "Traditional Ethiopian sourdough flatbread.",
+        "price": 2.99,
+        "variants": [],
+        "image": "/images/4ac0fa42d6154369dfe5.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "3cc0135d-1474-42ff-b2aa-84cdca7178c8",
+        "name": "Misir, Gomen and Key wot extra -ጭማሪ",
+        "description": "",
+        "price": 6.99,
+        "variants": [],
+        "image": "/images/f0625d268afb819f035a.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "b2671eb0-cb93-4256-a4f6-3f44d818eac5",
+        "name": "Sinig — ስኒግ",
+        "description": "2 Fresh green chili peppers stuffed with finely chopped onions and tomatoes.",
+        "price": 2.99,
+        "variants": [],
+        "image": "/images/1a9b11d89b841f4485e3.png",
+        "sourceLabels": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "65b6cc7f-04f1-4a6a-8120-1f666960cf45",
+    "name": "Hot Ethiopian traditional Beverages ባህላዊ ጥኩስ መጠጥ",
+    "items": [
+      {
+        "id": "514924ea-77c0-48df-b2c9-a0ca4cee04e7",
+        "name": "Coffee Ceremony",
+        "description": "Traditional Ethiopian coffee experience",
+        "price": null,
+        "variants": [
+          {
+            "name": "Medium",
+            "price": 18.99
+          },
+          {
+            "name": "Large",
+            "price": 23.99
+          }
+        ],
+        "image": "/images/38fb6671a134e9008963.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "a7e78566-013c-4be8-b6bb-c2d86b5b5472",
+        "name": "Spiced Tea — ቅመም ሻይ",
+        "description": "Ethiopian-style tea infused with cinnamon, cloves, and cardamom",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/da4bf2232e0eafa924d4.png",
+        "sourceLabels": [
+          "Vegetarian",
+          "Organic"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "cee11731-90f8-4c5d-9a8e-313f740324ec",
+        "name": "Special Tea",
+        "description": "A warming blend packed with fresh ginger, orange juice, lemon, pineapple juice, garlic, and honey. Enjoy its bold ginger kick, with no tea leaves.",
+        "price": null,
+        "variants": [
+          {
+            "name": "Single serve",
+            "price": 9.99
+          },
+          {
+            "name": "Grey Goose, Absolut, Ketel One",
+            "price": 19.99
+          }
+        ],
+        "image": "/images/4381e18f7be1108a0558.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "e983b829-dff5-4192-8e76-b38b19faf90c",
+        "name": "Macchiato",
+        "description": "",
+        "price": 4.79,
+        "variants": [],
+        "image": "/images/84531e254af2847344d0.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "612cdc13-fa71-40da-a710-3e6a55fc8f76",
+        "name": "Latte",
+        "description": "",
+        "price": 4.79,
+        "variants": [],
+        "image": "/images/9c71c6516e170b9bd50c.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      }
+    ]
+  },
+  {
+    "id": "1c55fb4c-bb81-459d-8452-69b8321e836d",
+    "name": "Desserts",
+    "items": [
+      {
+        "id": "599829e5-46b0-4726-a60b-e14bd7ac6f89",
+        "name": "Baklava",
+        "description": "Sweet, flaky pastry with honey and nuts",
+        "price": 6.99,
+        "variants": [],
+        "image": "/images/7d09255d16bef07fb7d2.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "6daa8cf2-e9fb-485a-8be4-f06cc2364189",
+        "name": "Tiramisu",
+        "description": "",
+        "price": 5.99,
+        "variants": [],
+        "image": "/images/81fb72fe5c3ee7e67060.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "92bb0115-cf5b-4a1f-a2ff-4d4510712c24",
+        "name": "Chocolate cake",
+        "description": "",
+        "price": 6.99,
+        "variants": [],
+        "image": "/images/b542c89baa8a421a791c.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "083128ab-5ac8-424e-9a0a-2a6ea245d2dc",
+        "name": "Cheese cake",
+        "description": "",
+        "price": 6.99,
+        "variants": [],
+        "image": "/images/2b9706229dad00fb825f.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "6ba477f8-1b37-442e-b469-74a39bca5425",
+        "name": "Cupcake",
+        "description": "",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/1eb93c924458625f25e7.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      }
+    ]
+  },
+  {
+    "id": "cf196296-6c64-46f0-b06b-1336464c381b",
+    "name": "Ethiopian Wines",
+    "items": [
+      {
+        "id": "8ec555b2-c11e-4fbf-8237-a7bbe5d71e71",
+        "name": "Tej",
+        "description": "Ethiopian honey wine Berele",
+        "price": 5.99,
+        "variants": [],
+        "image": null,
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Missing local image"
+        ]
+      },
+      {
+        "id": "e2b3b62b-f171-46bc-8ce0-a62346703a0f",
+        "name": "SpecialMixed Drink(Tekesheno)",
+        "description": "",
+        "price": 24.99,
+        "variants": [],
+        "image": null,
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Missing local image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a32afd9b-9293-49ea-82ec-96600a5f7a19",
+    "name": "Juices",
+    "items": [
+      {
+        "id": "8ab98f83-887f-48e5-874b-87314fffc3fa",
+        "name": "Mango Juice — የማንጎ ጭማቂ",
+        "description": "Sweet, refreshing mango juice.",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/ef850f49088126bd4bbb.png",
+        "sourceLabels": [
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "100f57bf-ee35-4bae-84a7-451e97e5cc56",
+        "name": "Orange Juice — የብርቱካን ጭማቂ",
+        "description": "Sweet, refreshing orange juice.",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/5fbb29cd58f0d7c20e7d.png",
+        "sourceLabels": [
+          "Organic",
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "1945aec2-4339-4d57-9d83-a0d0dc35de93",
+        "name": "Pineapple Juice — የአናናስ ጭማቂ",
+        "description": "Sweet and tangy pineapple juice with a refreshing tropical flavor",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/8d9531fa597107e36c5f.png",
+        "sourceLabels": [
+          "Organic",
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "1e3408e0-e7b6-4afc-aaa2-dd47115a9d6c",
+        "name": "Lemonade — ሎሚ ጭማቂ",
+        "description": "Refreshing lemon drink with a balanced sweet and tangy flavor.",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/cce644706c5ee3916a82.png",
+        "sourceLabels": [
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      },
+      {
+        "id": "2280ee0f-ce5e-475c-819a-7e097a153733",
+        "name": "Flaxseed Juice — ተልባ ጁስ",
+        "description": "A smooth, refreshing drink made from ground flaxseeds, lightly sweetened and served chilled.",
+        "price": 7.99,
+        "variants": [],
+        "image": "/images/8c682e3882b0d1eab416.png",
+        "sourceLabels": [
+          "Vegan"
+        ],
+        "modifiers": [],
+        "review": [
+          "Dietary labels require verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aa5d0e72-e37f-4d7f-b32c-37be1d860cf6",
+    "name": "Sodas",
+    "items": [
+      {
+        "id": "0279edb6-3036-4505-bcff-32e83ae00cc4",
+        "name": "Coca-Cola",
+        "description": "",
+        "price": 2.99,
+        "variants": [],
+        "image": "/images/a3c749f2a8dc9c68e9cc.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "a895e565-11c7-4c70-9dca-e7171fceaf4a",
+        "name": "Diet Coke",
+        "description": "",
+        "price": 2.99,
+        "variants": [],
+        "image": "/images/62d9deb8d4fcc06ddb79.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "ef97666d-9452-4f51-8a34-61d6191b6df0",
+        "name": "Sprite",
+        "description": "",
+        "price": 2.99,
+        "variants": [],
+        "image": "/images/7ee602d6e02a20445a3a.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "cb3a6c1a-67b0-4bca-b630-b0091207d9b5",
+        "name": "Fanta",
+        "description": "",
+        "price": 3.5,
+        "variants": [],
+        "image": "/images/f559921bdecd9c7e4dc8.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "8ce709cb-8ff3-4e29-af9d-6084a762def1",
+        "name": "Ginger Ale",
+        "description": "",
+        "price": 2.99,
+        "variants": [],
+        "image": "/images/6b4f16272545472a0433.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      },
+      {
+        "id": "b033f89d-74fd-4f66-a16e-ecc13ae0aae5",
+        "name": "Mineral Water Perrier",
+        "description": "",
+        "price": 3.99,
+        "variants": [],
+        "image": "/images/db2dd4c2ebfadb746b9c.png",
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": []
+      }
+    ]
+  },
+  {
+    "id": "3ab7d05e-148e-48e5-8797-aac811693116",
+    "name": "Red Wines",
+    "items": [
+      {
+        "id": "90eb6c0b-9b02-4e06-9cf6-cb857e3673bc",
+        "name": "Red Wine",
+        "description": "Semi-sweet Ethiopian red wine with bold flavors",
+        "price": 7.99,
+        "variants": [],
+        "image": null,
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Missing local image"
+        ]
+      },
+      {
+        "id": "a05efa40-d868-40af-9a91-b5950027d2a6",
+        "name": "Cabernet Sauvignon",
+        "description": "Classic red wine with rich, dark fruit notes",
+        "price": 7.99,
+        "variants": [],
+        "image": null,
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Missing local image"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c69b4c51-de73-4c05-a714-ff1b3f01507d",
+    "name": "White Wines",
+    "items": [
+      {
+        "id": "de1839ab-4dd1-4c4a-8acc-bc58187ca6d5",
+        "name": "White Wine",
+        "description": "Ethiopian white wine with a crisp, sweet finish",
+        "price": 7.99,
+        "variants": [],
+        "image": null,
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Missing local image"
+        ]
+      },
+      {
+        "id": "62ec3463-cd7e-405f-84ea-a86d911c8a43",
+        "name": "Sauvignon Blanc",
+        "description": "Refreshing and crisp with a touch of acidity",
+        "price": 7.99,
+        "variants": [],
+        "image": null,
+        "sourceLabels": [],
+        "modifiers": [],
+        "review": [
+          "Missing local image"
+        ]
+      }
+    ]
+  }
+]
