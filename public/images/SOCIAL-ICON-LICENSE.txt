@@ -1,0 +1,4 @@
+Social brand icons: Font Awesome Free 6.x by Fonticons, Inc.
+Icons licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Source: https://github.com/FortAwesome/Font-Awesome/tree/6.x/svgs/brands
+facebook-f.svg, instagram.svg, tiktok.svg. Brand trademarks belong to their owners.

@@ -339,3 +339,15 @@ footer .brand-logo { width: 110px; height: 110px; }
  .mobile-story-header h1:focus { outline: none; }
  .mobile-story-view > .story { display: grid; border-top: 0; padding-top: 28px; }
 }
+
+/* Social brand marks in the footer. */
+.footer-social { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; }
+.social-heading { color: var(--ink); font-size: 11px; font-weight: 700; }
+.social-links { display: flex; gap: 10px; }
+.social-link { display: grid; place-items: center; width: 44px; height: 44px; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; }
+.social-link img { width: 22px; height: 22px; object-fit: contain; }
+a.social-link:hover { border-color: var(--green); background: #e0ebd9; }
+
+.mobile-nav-social { display: none; }
+#follow-us { scroll-margin-top: 120px; }
+@media(max-width:760px) { .mobile-nav-social { display: block; padding-top: 14px; border-top: 1px solid var(--line); } }
