@@ -1,4 +1,4 @@
-﻿@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,600;0,700;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,600;0,700;1,500;1,600&display=swap');
 
 :root {
   font-family: 'DM Sans', Arial, sans-serif;
@@ -351,3 +351,4 @@ a.social-link:hover { border-color: var(--green); background: #e0ebd9; }
 .mobile-nav-social { display: none; }
 #follow-us { scroll-margin-top: 120px; }
 @media(max-width:760px) { .mobile-nav-social { display: block; padding-top: 14px; border-top: 1px solid var(--line); } }
+.visit-social { margin-top: 24px; }
