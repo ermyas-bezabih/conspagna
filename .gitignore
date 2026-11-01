@@ -1,0 +1,37 @@
+node_modules/
+dist/
+.env
+.env.local
+
+# Local project copies and preparation material
+/frontend/
+/github-upload/
+/website-snapshot/
+/backups/
+/.preview-tools/
+/Logo/
+/scripts/
+
+# Generated output and tooling state
+*.tsbuildinfo
+coverage/
+.vite/
+.vercel/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Local settings and credentials; keep the public configuration example
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+*.p12
+*.pfx
+.aws/
+.ssh/
+.codex/
+.agents/
